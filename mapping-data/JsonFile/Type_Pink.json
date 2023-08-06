@@ -1,0 +1,38 @@
+{
+    "grape": {
+        "243": "NaN",
+        "250": "NaN",
+        "669": "NaN",
+        "674": "NaN"
+    },
+    "name": {
+        "243": "Le P'tit Paysan Rose 2018",
+        "250": "Le Roi des Pierres Sancerre Rose 2016",
+        "669": "Les Quatre Tours Coteaux d'Aix en Provence 2016",
+        "674": "Les Vins Breban L'Opale de La Presqu'ile de St-Tropez Provence 2012"
+    },
+    "notes": {
+        "243": "Made from Grenache and Mourv\u00e9dre grown in Spur Ranch's limestone-rich clays and Grenache and Cinsault from the granitic bluffs above the Arroyo Seco River. Picked below 22 brix, with bright natural acidity. Fermented in several lots with some native and some cultured yeasts.",
+        "250": "Beautifully pink with a hint of peach, this rose has an intense, complex nose that evokes ripe fruit\u2014notes of mandarin, peach, pear and banana. The palate is medium-bodied, round and voluptuous with a hint of sweetness, supported by an inviting freshness. A lengthy finish leaves a lasting impression. Blend: 100% Pinot Noir",
+        "669": "Pink salmon color, brilliant wine. Crisp and delicate nose with a good fruit , floral and citrus notes (pink grapefruit). Well balanced taste with a good crispness. Good presence with fat and matter. Fruity aromas with strawberry and blackcurrant notes. Crisp finish with lemon notes. A light aromatic ros\u00e9, refreshing and well balanced. ",
+        "674": "Pale pink in color, with sparkles of gray; a deliciously refined nose of spring flowers; mid-palate, floral notes continue with a hint of lemon; good length on the palate. A fresh, pleasant wine."
+    },
+    "rating": {
+        "243": 92.0,
+        "250": 90.0,
+        "669": 89.0,
+        "674": 90.0
+    },
+    "region": {
+        "243": "Central Coast, California",
+        "250": "Sancerre, Loire, France",
+        "669": "Coteaux d'Aix-en-Provence, Provence, South of France, France",
+        "674": "Provence, South of France, France"
+    },
+    "variety": {
+        "243": "Pink and Ros\u00e9",
+        "250": "Pink and Ros\u00e9",
+        "669": "Pink and Ros\u00e9",
+        "674": "Pink and Ros\u00e9"
+    }
+}
